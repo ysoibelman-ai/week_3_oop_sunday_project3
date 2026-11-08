@@ -21,7 +21,5 @@ def main():
         total = total + person.monthly_cost()
     print("Total monthly cost:", total)
 
-
-
 if __name__ == "__main__":
     main()

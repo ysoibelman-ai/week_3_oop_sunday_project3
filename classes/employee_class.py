@@ -8,6 +8,3 @@ class Employee():
         return self.salary
     def describe(self):
         return f"{self.name} ({self.title()}): {self.monthly_cost()}"
-
-    
-    
